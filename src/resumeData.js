@@ -77,8 +77,8 @@ let resumeData = {
   ],
   "portfolio": [
     {
-      "name": "project1",
-      "description": "mobileapp",
+      "name": "CandySmoke",
+      "description": "http://candysmokekiev.site/",
       "imgurl": "images/portfolio/project1.jpg"
     },
     {
@@ -89,11 +89,11 @@ let resumeData = {
     {
       "name": "project3",
       "description": "mobileapp",
-      "imgurl": "images/portfolio/project3.png"
+      "imgurl": "images/portfolio/project3.jpg"
     },
     {
-      "name": "project4",
-      "description": "mobileapp",
+      "name": "Киевский дворец детей и юношества",
+      "description": "https://schedule.palace.kiev.ua/",
       "imgurl": "images/portfolio/project4.jpg"
     }
   ],
